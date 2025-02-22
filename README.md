@@ -1,4 +1,3 @@
-# landing-page-design
 
 # Responsive Landing Page
 
